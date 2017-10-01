@@ -4,111 +4,114 @@
         <body>
             <trans-unit id="id" resname="id">
                 <source>ID</source>
-                
+
                 <target>ID</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="name" resname="name">
                 <source>Name</source>
-                
+
                 <target>Name</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="survival_attempts" resname="survival_attempts">
                 <source>Survival</source>
-                
+
                 <target>Versuche</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="total_survival_time" resname="total_survival_time">
                 <source>Time survived</source>
-                
+
                 <target>Überlebt</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="total_survivor_kills" resname="total_survivor_kills">
                 <source>Survivor kills</source>
-                
+
                 <target>Kills (Überlebende)</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="total_zombie_kills" resname="total_zombie_kills">
                 <source>Zombie kills</source>
-                
+
                 <target>Kills (Zombies)</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="total_headshots" resname="total_headshots">
                 <source>Headshots</source>
-                
+
                 <target>Kopfschüsse</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="clan" resname="clan">
                 <source>Clan</source>
-                
+
                 <target>Clan</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="ranger" resname="ranger">
                 <source>Ranger</source>
-                
+
                 <target>Ranger</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="outlaw" resname="outlaw">
                 <source>Outlaw</source>
-                
+
                 <target>Outlaw</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="hunter" resname="hunter">
                 <source>Hunter</source>
-                
+
                 <target>Hunter</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="nomad" resname="nomad">
                 <source>Nomad</source>
-                
+
                 <target>Nomad</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="survivalist" resname="survivalist">
                 <source>Survivalist</source>
-                
+
                 <target>Survivalist</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="engineer" resname="engineer">
                 <source>Engineer</source>
-                
+
                 <target>Engineer</target>
-                
+
             </trans-unit>
-            
+
             <trans-unit id="undead" resname="undead">
                 <source>Undead</source>
-                
+
                 <target>Undead</target>
-                
+
             </trans-unit>
-            
+            <trans-unit id="record_listing_title" resname="record_listing_title">
+                <source>Profile records</source>
+                <target>Profileinträge</target>
+            </trans-unit>
         </body>
-        
+
     </file>
-    
+
 </xliff>

@@ -62,6 +62,10 @@
                 <source>Undead</source>
                 <target>Undead</target>
             </trans-unit>
+            <trans-unit id="record_listing_title" resname="record_listing_title">
+                <source>Profile records</source>
+                <target>Profile records</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
